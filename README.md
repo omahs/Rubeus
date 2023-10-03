@@ -13,7 +13,7 @@
 
 </div>
 
-### **Rubeus** streamlines API requests to 20+ LLMs. It provides a unified API signature for interacting with all LLMs alongwith powerful LLM Gateway features like load balancing, fallbacks, retries and more. 
+### **Rubeus** streamlines API requests to 20+ LLMs. It provides a unified API signature for interacting with all LLMs along with powerful LLM Gateway features like load balancing, fallbacks, retries and more. 
 
 - [Features](#features)
 - [Supported Providers](#supported-providers)
